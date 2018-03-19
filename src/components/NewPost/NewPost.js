@@ -20,7 +20,6 @@ class NewPost extends Component {
             .then(response => {
                 console.log(response);
             });
-
     }
 
     render () {
